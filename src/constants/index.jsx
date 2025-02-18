@@ -18,7 +18,7 @@ import { BiVideoPlus } from "react-icons/bi";
 import { MdCampaign } from 'react-icons/md';
 
 export const NAVIGATION_LINKS = [
-  { label: "Projects", href: "#projects" },
+  // { label: "Projects", href: "#projects" },
   { label: "Bio", href: "#bio" },
   { label: "Skills", href: "#skills" },
   { label: "Work Experience", href: "#work" },
